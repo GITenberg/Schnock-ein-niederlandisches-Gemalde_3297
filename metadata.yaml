@@ -1,0 +1,31 @@
+_repo: Schnock-ein-niederlandisches-Gemalde_3297
+creator:
+  author:
+    agent_name: Hebbel, Friedrich
+    aliases:
+    - Hebbel, C. F. (Christian Friedrich)
+    - Hebbel, F. (Friedrich)
+    - Hebbel, Christian Friedrich
+    birthdate: 1813
+    deathdate: 1863
+    gutenberg_agent_id: '1061'
+    url: http://www.gutenberg.org/2009/agents/1061
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Friedrich_Hebbel
+    - http://en.wikipedia.org/wiki/Christian_Friedrich_Hebbel
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2002-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3297'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Germany, Northern -- Fiction'
+- !lcsh 'Germany -- Social life and customs -- 19th century -- Fiction'
+title: 'Schnock: ein niederländisches Gemälde'
+url: http://www.gutenberg.org/ebooks/3297
