@@ -1,5 +1,8 @@
 _repo: Schnock-ein-niederlandisches-Gemalde_3297
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hebbel, Friedrich
@@ -15,6 +18,8 @@ creator:
     - http://de.wikipedia.org/wiki/Friedrich_Hebbel
     - http://en.wikipedia.org/wiki/Christian_Friedrich_Hebbel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3297#Schnock-ein-niederlandisches-Gemalde
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2002-06-01'
 gutenberg_type: Text
