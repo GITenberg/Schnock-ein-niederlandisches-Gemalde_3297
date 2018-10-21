@@ -1,5 +1,5 @@
 _repo: Schnock-ein-niederlandisches-Gemalde_3297
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ subjects:
 - !lcc 'PT'
 - !lcsh 'Germany, Northern -- Fiction'
 - !lcsh 'Germany -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
 title: 'Schnock: ein niederländisches Gemälde'
 url: http://www.gutenberg.org/ebooks/3297
